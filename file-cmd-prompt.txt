@@ -3,3 +3,6 @@ a file created for testing git using command prompt
 
 
 created sowftware related to computer scince
+
+
+file modifide from git hub
